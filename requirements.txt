@@ -1,6 +1,6 @@
 streamlit
-transformers
 torch
+transformers==4.40.1
 sentencepiece
-Pillow
 pdfplumber
+Pillow
