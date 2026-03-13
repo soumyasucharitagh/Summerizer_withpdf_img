@@ -1,9 +1,9 @@
 import streamlit as st
 from PIL import Image
 
-import summarize_text
-import summarize_pdf
-import generate_caption
+import text_summarizer
+import pdf_summarizer
+import image_captioning
 
 st.set_page_config(page_title="ML Multi App", layout="wide")
 
